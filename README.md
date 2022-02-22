@@ -1,6 +1,6 @@
 # random_fact
 
-A new Flutter project.
+A single page screen with text and a button. It displays a random fact (powered by the Numbers API found on rapidai). That is it. Nothing exciting here, I was just learning how to make HTTP requests with Dart. 
 
 ## Getting Started
 
